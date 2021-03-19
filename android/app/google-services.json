@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615280686273",
+    "project_id": "onesignalexample-4f81e",
+    "storage_bucket": "onesignalexample-4f81e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615280686273:android:16fb70fc9fe8a3bcc0d040",
+        "android_client_info": {
+          "package_name": "com.example.notifikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615280686273-ijc1ncosek6lmeeuivdktdg8mrhummhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIC8VEFthl1o1zgIE5szHB_WMfIZeuWf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615280686273-ijc1ncosek6lmeeuivdktdg8mrhummhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
